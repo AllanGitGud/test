@@ -1,3 +1,2 @@
-# Hi
-## staging process
-## Hello, World!
+# setting up my first git repo
+## learing about git
